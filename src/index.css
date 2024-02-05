@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.w-12.text-black {
+  position: absolute;
+  right: 565px;
+  top: 360px;
+}
